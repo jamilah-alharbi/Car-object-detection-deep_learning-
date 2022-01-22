@@ -83,13 +83,9 @@ github /ultralytics
 
 Roboflow
 
-done by 
+# done by 
 
-Jamilah Alharbi  -   Mohammed almalki 
-- Ghaliah Maher    -   Yhya Alyoubi
+- Jamilah Alharbi  -   Mohammed almalki 
+- Ghliah Maher     -   Yahya Alyoubi
 - Ghadeer Alghamdi -  Mohammeh Alajmi
-
-
-
-
 
